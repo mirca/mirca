@@ -1,6 +1,6 @@
 Hi there!
 
-I'm PhD student at HKUST working with [@dppalomar](https://github.com/dppalomar) on interesting problems
+I'm PhD student at HKUST, in sunny Hong Kong, working with [@dppalomar](https://github.com/dppalomar) on interesting problems
 involving financial time-series analysis. I was previously a scientific software engineer intern at
 [NASA](https://exoplanets.nasa.gov/news/1529/meet-the-kepler-mission-team/) and
 [NIST](https://www.nist.gov).
