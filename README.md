@@ -1,4 +1,6 @@
-Hi there! I'm Zé Vinícius, a PhD candidate at HKUST, in sunny Hong Kong, working with [Prof. Daniel Palomar](https://github.com/dppalomar)
+### Hi, I’m Zé Vinícius
+
+I'm a PhD candidate at HKUST, in sunny Hong Kong, working with [Prof. Daniel Palomar](https://github.com/dppalomar)
 on interesting problems involving [graphs](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)) and financial time series.
 More precisely, I design [optimization algorithms](https://en.wikipedia.org/wiki/Mathematical_optimization) using elements of [graph theory](https://en.wikipedia.org/wiki/Graph_theory) and [statistical learning theory](https://en.wikipedia.org/wiki/Statistical_learning_theory)
 to extract knowledge from networks of financial assets. Previously, I interned as a scientific software engineer
