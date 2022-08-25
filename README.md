@@ -10,7 +10,3 @@ and (4) guest researcher at [NIST](https://www.nist.gov) in Gaithersburg, Maryla
 I spend most of my time doing [research](https://scholar.google.com/citations?hl=en&user=ilvNpCoAAAAJ&view_op=list_works&sortby=pubdate)
 and [coding](https://github.com/mirca). In my free time, there is nothing better than swimming and crab hunting in the waters
 of Clear Water Bay and video-chatting with my dog, Pluto.
-
-<p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirca&hide=html,javascript,tex,css,postscript,ruby,jupyter%20notebook&langs_count=100&layout=compact&theme=dracula" alt="mirca's Github Stats" />
-</p>
