@@ -38,8 +38,3 @@ I spend most of my time doing [research](https://scholar.google.com/citations?hl
 and [coding](https://github.com/mirca). Outside of that, I love swimming and
 crab hunting in the waters of Clear Water Bay and video-chatting with my nephew
 Chico and my dog Pluto.
-
-[![Top Langs](
-https://github-readme-stats.vercel.app/api/top-langs/?username=mirca&hide=jupyter%20notebook,postscript,tex,html,css&langs_count=5&theme=radical
-)](https://mirca.github.io)
-
