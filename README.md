@@ -11,7 +11,7 @@ I have done a few internships along the way:
 * research scientist at [Shell Street Labs](https://www.linkedin.com/company/shell-street-labs/about/): wrote code for portfolio strategy optimization;
 * scientific software engineer at [NASA](https://exoplanets.nasa.gov/news/1529/meet-the-kepler-mission-team/): wrote code for [lightkurve](https://github.com/lightkurve/lightkurve);
 * Google Summer of Code developer for [OpenAstronomy](https://www.openastronomy.org): improved point spread function photometry capabilities of [photutils](https://github.com/astropy/photutils/graphs/contributors);
-* guest researcher at [NIST](https://www/nist.gov): research on nanophotonics published in [Nature](https://www.nature.com/articles/s41467-017-00987-6);
+* guest researcher at [NIST](https://www.nist.gov): research on nanophotonics published in [Nature](https://www.nature.com/articles/s41467-017-00987-6);
 
 ### Publications
 
