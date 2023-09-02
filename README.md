@@ -3,8 +3,8 @@
 I graduated with a PhD from the Department of Electronic and Computer Engineering at HKUST, in sunny Hong Kong,
 where I was a member of the [Convex Optimization in Finance Group](https://github.com/convexfi) advised by [Prof Daniel Palomar](https://github.com/dppalomar).
 
-My PhD research focused on problems involving [graphs](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)) and financial
-time series, where I designed [optimization algorithms](https://en.wikipedia.org/wiki/Mathematical_optimization) combined with elements of
+My PhD research focused on problems involving [graphs](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)),
+where I designed [optimization algorithms](https://en.wikipedia.org/wiki/Mathematical_optimization) combined with elements of
 [graph theory](https://en.wikipedia.org/wiki/Graph_theory) and
 [statistical learning theory](https://en.wikipedia.org/wiki/Statistical_learning_theory),
 to extract knowledge from networks of financial assets.
