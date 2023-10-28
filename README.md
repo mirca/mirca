@@ -19,6 +19,8 @@ I have done a number of internships along the way:
 * Google Summer of Code developer for [OpenAstronomy](https://www.openastronomy.org): improved the point spread function photometry capabilities of [photutils](https://github.com/astropy/photutils/graphs/contributors);
 * guest researcher at [National Institute of Standards and Technology (NIST)](https://www.nist.gov): research on nanophotonics published in [Nature](https://www.nature.com/articles/s41467-017-00987-6) and [Review of Scientific Instruments](https://aip.scitation.org/doi/full/10.1063/1.4976578);
 
+Nowdays, I work as a Quantitative Trader at Merril Lynch (Bank of America).
+
 ### Publications
 
 Here's a list of selected papers that I published together with my co-authors during my PhD:
