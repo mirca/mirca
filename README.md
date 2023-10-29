@@ -32,8 +32,6 @@ Here's a list of selected papers that I published together with my co-authors du
 
 ### Projects
 
-Projects that I've worked on most recently:
-
 * [riskparity.py:](https://github.com/convexfi/riskparity.py)
 performant code for constructing optimal risk parity portfolios in
 Python
