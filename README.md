@@ -25,7 +25,9 @@ Nowdays, I work as a Quantitative Trader at Merril Lynch (Bank of America).
 
 Here's a list of selected papers that I published together with my co-authors during my PhD:
 
-* [Learning Bipartite Graphs: Heavy Tails and Multiple Components](https://openreview.net/pdf?id=WNSyF9qZaMd), NeurIPS 2022
+* [Adaptive Estimation of Graphical Models under Total Positivity](https://proceedings.mlr.press/v202/ying23a/ying23a.pdf), ICML 2023
+* [Fast Projected Newton-like Method for Precision Matrix Estimation under Total Positivity](https://openreview.net/pdf?id=C9cgwmJ8Pt), NeurIPS 2023
+* [Learning Bipartite Graphs: Heavy Tails and Multiple Components](https://papers.nips.cc/paper_files/paper/2022/hash/5adff4d5402703418f7210a4004e1314-Abstract-Conference.html), NeurIPS 2022
 * [Graphical Models in Heavy-Tailed Markets](https://papers.nips.cc/paper/2021/hash/a64a034c3cb8eac64eb46ea474902797-Abstract.html), NeurIPS 2021
 * [Nonconvex Sparse Graph Learning under Laplacian Constrained Graphical Model](https://proceedings.neurips.cc/paper/2020/hash/4ef42b32bccc9485b10b8183507e5d82-Abstract.html), NeurIPS 2020
 * [Structured Graph Learning Via Laplacian Spectral Constraints](https://papers.nips.cc/paper/9339-structured-graph-learning-via-laplacian-spectral-constraints), NeurIPS 2019
