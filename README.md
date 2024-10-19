@@ -11,7 +11,7 @@ to extract knowledge from networks of financial assets.
 Our research results during my PhD were published in venues such as
 NeurIPS, ICML, JMLR, AISTATS, and AAAI. I also served as a reviewer for NeurIPS, ICML, ICLR, JMLR, and IEEE TNNLS.
 
-## Career
+### Career
 
 * trader at [Merrill Lynch](https://www.linkedin.com/company/bank-of-america-merrill-lynch/): risk-managed internalization market making strategies of APAC equities;
 * quant at [Merrill Lynch](https://www.linkedin.com/company/bank-of-america-merrill-lynch/): wrote code for portfolio risk optimization and limit order book forecasting;
