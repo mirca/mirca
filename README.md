@@ -11,15 +11,16 @@ to extract knowledge from networks of financial assets.
 Our research results during my PhD were published in venues such as
 NeurIPS, ICML, JMLR, AISTATS, and AAAI. I also served as a reviewer for NeurIPS, ICML, ICLR, JMLR, and IEEE TNNLS.
 
-I have done a number of internships along the way:
+## Career
 
-* equity quant at [Merrill Lynch](https://www.linkedin.com/company/bank-of-america-merrill-lynch/): wrote code for portfolio risk optimization and limit order book forecasting;
+* trader at [Merrill Lynch](https://www.linkedin.com/company/bank-of-america-merrill-lynch/): risk-managed internalization market making strategies of APAC equities;
+* quant at [Merrill Lynch](https://www.linkedin.com/company/bank-of-america-merrill-lynch/): wrote code for portfolio risk optimization and limit order book forecasting;
 * research scientist at [Shell Street Labs](https://www.linkedin.com/company/shell-street-labs/about/): wrote code for portfolio strategy optimization;
 * scientific software engineer at [National Aeronautics and Space Administration (NASA)](https://exoplanets.nasa.gov/news/1529/meet-the-kepler-mission-team/): part of the lead developers team of [lightkurve](https://github.com/lightkurve/lightkurve), an open source package for time series analysis of NASA [Kepler, K2](https://www.nasa.gov/mission_pages/kepler/main/index.html), & [TESS](https://exoplanets.nasa.gov/tess/) data;
 * Google Summer of Code developer for [OpenAstronomy](https://www.openastronomy.org): improved the point spread function photometry capabilities of [photutils](https://github.com/astropy/photutils/graphs/contributors);
 * guest researcher at [National Institute of Standards and Technology (NIST)](https://www.nist.gov): research on nanophotonics published in [Nature](https://www.nature.com/articles/s41467-017-00987-6) and [Review of Scientific Instruments](https://aip.scitation.org/doi/full/10.1063/1.4976578);
 
-Nowdays, I work as a Quantitative Trader at Merril Lynch (Bank of America).
+Nowdays, I work as a Trader at [Morgan Stanley](https://www.linkedin.com/company/morgan-stanley/).
 
 ### Publications
 
